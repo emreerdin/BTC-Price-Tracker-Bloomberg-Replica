@@ -33,4 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 "# bitcoin-price-notifier" 
 "# bitcoin-price-notifier" 
 
-![alt text]([http://url/to/img.png])
+![Bitcoin Price Notifier](https://i.ibb.co/cF2vT34/bitcoin-price-notifier.png)
